@@ -1,5 +1,3 @@
-Certainly, here's the updated README.md without the submission section:
-
 # Caravan Insurance Customer Interest Prediction
 
 ## Overview
@@ -108,12 +106,11 @@ Logistic Regression is a binary classification algorithm commonly used for predi
 
 ## Conclusion
 
-GridSearchCV is a powerful tool for finding the best combination of hyperparameters for a machine learning model. In your project, you're using GridSearchCV to search through different combinations of hyperparameters for a logistic regression model, with the goal of optimizing its performance in predicting customer interest in a caravan insurance policy.
+GridSearchCV is a powerful tool for finding the best combination of hyperparameters for a machine-learning model. In your project, you're using GridSearchCV to search through different combinations of hyperparameters for a logistic regression model, with the goal of optimizing its performance in predicting customer interest in a caravan insurance policy.
 
 Please note that the explanation provided here is meant to be a high-level overview. The actual implementation and details may vary depending on the specific algorithms and libraries used.
 
-## Conclusion
-
-Through this project, we've explored how data science techniques can be employed to predict customer interest in caravan insurance policies. The goal is to improve marketing strategies by targeting potential customers more effectively, reducing waste and expenses.
+## Learn GridsearchCV in 16 min
+https://www.youtube.com/watch?v=HdlDYng8g9s
 
 Feel free to reach out if you have any questions or suggestions!
